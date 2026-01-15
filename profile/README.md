@@ -1,0 +1,1 @@
+Our lab explores the fascinating battle between bacteria and their viruses (phages), focusing on how CRISPR-Cas and other bacterial immune systems evolve and function. By combining experimental and computational approaches, we uncover the molecular mechanisms driving these complex systems, answering fundamental biological questions and inspiring novel biotechnologies.
